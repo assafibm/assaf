@@ -28,7 +28,7 @@
 <value name="true" weight="1"/>
 <value name="false" weight="1"/>
 </attribute>
-<attribute attr_class="NONE" dependencies="false" description="Whether the item is shipping to a foreign country. Using a string instead of a boolean because I expect the values will change." iotype="NEITHER" name="OrderShippingDestination" type="STRING">
+<attribute attr_class="NONE" dependencies="false" description="" iotype="NEITHER" name="OrderShippingDestination" type="STRING">
 <value description="The order is shipping domestically." name="domestic" weight="1"/>
 <value description="The order is shipping to another country" name="foreign" weight="1"/>
 </attribute>
